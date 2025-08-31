@@ -1,5 +1,5 @@
 # Hi, I'm Taiwo Afusat Oluwakemi 👋
-![Banner](./assets/banner.png) <!-- upload your banner image into /assets/ -->
+![Banner](./https://www.linkedin.com/in/taiwo-afusat-oluwakemi/banner.png) <!-- upload your banner image into /assets/ -->
 
 ## 🚀 About Me
 I am the founder of **Asmart Digital Concepts**, a digital marketing and website development agency.  
