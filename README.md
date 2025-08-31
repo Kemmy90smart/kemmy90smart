@@ -34,7 +34,7 @@ I enjoy creating professional websites, running impactful digital campaigns, and
 ---
 
 ## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge)]([https://www.linkedin.com/in/taiwo-afusat-oluwakemi/](https://www.linkedin.com/in/taiwo-afusat-oluwakemi/))  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/taiwo-afusat-oluwakemi/) 
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:taiwo.asat@gmail.com) 
 [![Website](https://img.shields.io/badge/Website-Visit-green?style=for-the-badge&logo=google-chrome)](https://www.asmart.com.ng)
 
