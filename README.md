@@ -1,5 +1,6 @@
 # Hi, I'm Taiwo Afusat Oluwakemi 👋
-![Banner](./assets.png)
+![Banner](https://raw.githubusercontent.com/Kemmy90smart/kemmy90smart/main/assets.png)
+
 
 ## 🚀 About Me
 I am the founder of **Asmart Digital Concepts**, a digital marketing and website development agency.  
